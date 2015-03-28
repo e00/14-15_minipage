@@ -1,11 +1,10 @@
 Minipage
 =================
 
-**Course** Input/Output
+Course **Input/Output**
 
-**Semester** 2014/15
+Semester **2014/15**
 
-University of Applied Sciences Potsdam
+**University of Applied Sciences Potsdam**
 
-
-**Micropage utilizing the capabilities of p5js**
+Micropage utilizing the capabilities of p5js
